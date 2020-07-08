@@ -1,0 +1,30 @@
+Teacher==>1.TimeTable
+		  2.start time	
+		  3.ArrayList<Allocation>
+
+Allocation==>1. Subject
+			 2. Division
+			 3. theoryLectures
+			 4. practicalLectures    	
+
+Division==>1.divisionName
+		   2.startTime
+		   3.TimeTable
+		   4.ArrayList<Subject>
+		   5.ArrayList<Teacher>	
+Subject=>4.subjectName
+		 1.numberOfTheoryLectures
+		 3.typeOfSubject
+		 2.noOfLabs		
+
+TimeTable==>1.ArrayList<Day>
+
+Day==>1.ArrayList<Lecture>
+
+Lecture==>1.roomNumber
+		  2.startTime
+		  3.type==>1.Lab=======>1.Duration==>2 hours
+		  						2.HashMap<Teacher,roomNumber>(size 3)
+		  		   2.Theory====>1.Duration==>1hour
+		  		   				2.Teacher
+Room ==> 1. ArrayList<Lecture>
