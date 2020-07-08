@@ -1,3 +1,0 @@
-1.Socket Programming whatsapp
-2.DES implementation on whatsapp using java inbuilt cryptoPackage
-3.Automatic timetable(backtracking implementation)

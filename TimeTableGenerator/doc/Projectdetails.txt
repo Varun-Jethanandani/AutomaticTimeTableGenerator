@@ -1,0 +1,16 @@
+78+78+78+52+52+52+78/4 = 
+
+CN  ==> 4 lec + 2 labs
+MP  ==>	4 lec + 2 labs
+DBMS==> 4 lec + 2 labs
+WT  ==> 4 lec
+BCE ==> 4 lec
+TCS ==> 4 lec
+AOA ==> 6 lec
+
+1.Teacher multiple division management 
+3.timing adjustment by conducting lab ===>Pending
+
+Shortcomings:
+-Teacher time constraint management ===>Test properly
+-No of lecture adjustment as per lab 

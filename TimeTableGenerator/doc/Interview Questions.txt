@@ -1,0 +1,33 @@
+1.Data Structures
+ -Stack,Queues
+ -Big Companies:Programs on Trees AND Graphs
+
+2.DBMS
+  -Normalization
+  -Queries
+  -Transactions and Deadlock Basics
+
+3.C
+  -Basic Programs
+  -Pointers
+  -Structure class Difference
+
+4.Java(OOP)
+  -Any object oriented concept such as inheritance,polymorphism,classes,objects,static,abstract,interfaces
+  -Why interface
+  -interfaces n class are same or not
+  -Big companies will ask you basics about collection framework ==>implementation of toString(),hashCode(),equals()
+   -Microsoft had asked about equals() that how equals compare two objects.
+   If equals return true then both the objects are of same reference or not?
+   If hashCode of 2 objects are same then both are same or not 
+5.AOA
+  -ONLY IN BIG COMPANIES
+  -Given a recursive algo find the complexity.
+  -
+
+IVP
+ -Company only deals with ASP and C#
+ -Pen n paper test.Questions on ALgorithms
+ -GD is also conducted by this company (Newspaper)
+ -Tech round where basics of java and all is asked
+ 		
